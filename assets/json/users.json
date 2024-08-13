@@ -1,0 +1,19 @@
+[
+    {
+      "userId": "1",
+      "username": "john_doe",
+      "gender": "male",
+      "email": "john.doe@example.com",
+      "password": "Password123",
+      "phoneNumber": "0234567891"
+    },
+    {
+      "userId": "2",
+      "username": "jane_doe",
+      "gender": "female",
+      "email": "jane.doe@example.com",
+      "password": "Password123",
+      "phoneNumber": "0987654321"
+    }
+  ]
+  
