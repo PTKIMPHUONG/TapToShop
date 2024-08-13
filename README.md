@@ -6,6 +6,7 @@ TapToShop is a fashion shopping app built with Flutter, designed to provide user
 ## Technical
 Using Flutter, Dart.
 ● Use the MVVM pattern.
+
 ● Manage state with BLoC, Provider.
 ● Store data using the Shared Preferences plugin
 ● Manage database with Firebase (Authentication, Cloud Firestore, Database)
