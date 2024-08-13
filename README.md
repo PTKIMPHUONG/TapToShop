@@ -1,16 +1,12 @@
-# test_app
+# TapToShop Mobile App
 
-A new Flutter project.
+# Introdution
+TapToShop is a fashion shopping app built with Flutter, designed to provide users with a seamless and enjoyable shopping experience
 
-## Getting Started
+## Technical
+Using Flutter, Dart.
+● Use the MVVM pattern.
+● Manage state with BLoC, Provider.
+● Store data using the Shared Preferences plugin
+● Manage database with Firebase (Authentication, Cloud Firestore, Database)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
